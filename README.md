@@ -1,0 +1,2 @@
+# Scientific-Calculator
+Scientific Calculator is a simple project in HTML5, CSS, and JavaScript. This project is for solving the mathematical calculations of numbers. You can see the basic features of the advance calculator in this project. Taking about the features of the Calculator, the user can add, subtract, divide, find squares, under roots, trigonometry ratios, multiply, even check the remainder of any two numbers. You can just click the numbers you want to involve in calculations and click the button with “=” sign for the result.
